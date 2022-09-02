@@ -1,0 +1,4 @@
+debian packages:
+libcatalyst-perl libterm-size-any-perl libcatalyst-action-renderview-perl libcatalyst-plugin-configloader-perl perl-catalyst-plugin-static-simple
+
+Run script/stimmung_server.pl to test the application.
